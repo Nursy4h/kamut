@@ -1,5 +1,16 @@
 
-
+GL = "\033[96;1m" # Blue aqua
+BB = "\033[34;1m" # Blue light
+YY = "\033[33;1m" # Yellow light
+GG = "\033[32;1m" # Green light
+WW = "\033[0;1m"  # White light
+RR = "\033[31;1m" # Red light
+CC = "\033[36;1m" # Cyan light
+B = "\033[34m"    # Blue
+Y = "\033[33;1m"    # Yellow
+G = "\033[32m"    # Green
+W = "\033[0;1m"     # White
+R = "\033[31m"    # Red
 
 import random
 import sys
@@ -10,7 +21,7 @@ def mengetik(s):
         sys.stdout.flush()
 #kecepatan mengetik
         time.sleep(random.random() * 0.1)
-#ubah angka 0.1 sesuai keinginan kamu
+#ubah angka 0.2 sesuai keinginan kamu
 #angka terkecil adalah yang paling cepat
 #angka terbesar adalah yang paling lambat
 mengetik('.           hallo teman-teman.')
@@ -24,7 +35,7 @@ mengetik('.     Ngegame(katanya sih nogame nolife) ')
 mengetik('.   Game yg sya sukai pb.ff.oceanar.wormax.  ')
 mengetik('.                                                       ')
 mengetik('.       Status .........................                 ')
-mengetik('.   Pacaran dari 2016 september 26 zampai sekang         ')
+mengetik(GG+'.   Pacaran dari 2016 september 26 zampai sekang         ')
 mengetik('.            Kalo kalian pasti jomblo kan:-D             ')
 mengetik('.       Nah sekarang tentang tools ini........        ')
 mengetik('.    Kalian bisa dapatkan kata kata >>>gombalan hacker   ')
