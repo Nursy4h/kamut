@@ -51,8 +51,8 @@ mengetik('.  lalu ketik     ')
 mengetik('.           python2 <namafoldernya>.py')
 mengetik('.        Contoh nya python2 hacker-patah-hati.py.          ')
 mengetik(B+'.       Jika ada yang ingin menyumbangkan kata kata ')
-mengetik('via wa:0878-8114-5568')
-mengetik('selamat membaca kamut ')
+mengetik('chat via whatshapp:0878-8114-5568')
+mengetik('selamat membaca kakamut ')
 
 
 
