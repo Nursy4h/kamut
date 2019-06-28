@@ -50,6 +50,9 @@ mengetik('.ls untuk mengetahui kata kata yang ada di dalam tools ini  ')
 mengetik('.  lalu ketik     ')
 mengetik('.           python2 <namafoldernya>.py')
 mengetik('.        Contoh nya python2 hacker-patah-hati.py.          ')
+mengetik(B+'.       Jika ada yang ingin menyumbangkan kata kata ')
+mengetik('via wa:0878-8114-5568')
+mengetik('selamat membaca kamut ')
 
 
 
