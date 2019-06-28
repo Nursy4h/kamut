@@ -53,8 +53,5 @@ mengetik('.        Contoh nya python2 hacker-patah-hati.py.          ')
 mengetik(B+'.       Jika ada yang ingin menyumbangkan kata kata ')
 mengetik('chat via whatshapp:0878-8114-5568')
 mengetik('selamat membaca kakamut ')
-
-
-
-
-
+open https://api.whatsapp.com/send?phone=087881145568&text=halo%20Admin%20Saya%20Mau%20OMemberi%20katakata
+															
