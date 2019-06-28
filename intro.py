@@ -18,19 +18,7 @@ R = "\033[31m"    # Red
 import random
 import sys
 import time
-banner_list = [
-    """
-       .---.        .-----------
-      /     \  __  /    ------
-     / /     \(  )/    -----
-    //////   ' \/ `   ---
-   //// / // :    : ---
-  // /   /  /`    '--
- //          //..\\
-        ====UU====UU====
-        |   '//||\\`   |
-        |     ''``     |
-N========A=======Z=======R=======I====L
+
 def mengetik(s):
     for c in s + '\n':
         sys.stdout.write(c)
@@ -40,6 +28,16 @@ def mengetik(s):
 #ubah angka 0.2 sesuai keinginan kamu
 #angka terkecil adalah yang paling cepat
 #angka terbesar adalah yang paling lambat
+mengetik('        .---.        .-----------    ')
+mengetik('      / /     \(  )/    -----  ')
+mengetik('     //////   ' \/ `   --- ')
+mengetik('    //// / // :    : ---  ')
+mengetik('   // /   /  /`    '--  ')
+mengetik('  //          //..\\  ')
+ mengetik('        ====UU====UU==== 	')
+mengetik('         |   '//||\\`   |    	 ')
+mengetik('         |     ''``     |        ')
+mengetik(' N========A=======Z=======R=======I====L')
 mengetik(RR+'.      hallo teman-teman.')
 mengetik('.       Nama saya Nazri azril')
 mengetik('.          Agama saya islam    ')
