@@ -1,4 +1,4 @@
-system("clear")
+("clear")
 
 GL = "\033[96;1m" # Blue aqua
 BB = "\033[34;1m" # Blue light
@@ -54,5 +54,5 @@ mengetik('.        Contoh nya python2 hacker-patah-hati.py.          ')
 mengetik(B+'.       Jika ada yang ingin menyumbangkan kata kata ')
 mengetik('chat via whatshapp:0878-8114-5568')
 mengetik('selamat membaca kakamut ')
-system("xdg-open https://api.whatsapp.com/send?phone=087881145568&text=Halo%20Admin%20Saya%20Mau%20Memberi")
+("xdg-open https://api.whatsapp.com/send?phone=087881145568&text=Halo%20Admin%20Saya%20Mau%20Memberi")
 															
