@@ -25,8 +25,8 @@ def mengetik(s):
 #ubah angka 0.1 sesuai keinginan kamu
 #angka terkecil adalah yang paling cepat
 #angka terbesar adalah yang paling lambat
-mengetik(GG'   #HackerPatahHati')
-mengetik('Girl, meskipun aku lagi belajar PHP, aku gak akan php-in kamu')
+mengetik(B+'   #HackerPatahHati')
+mengetik(GG+'Girl, meskipun aku lagi belajar PHP, aku gak akan php-in kamu')
 mengetik('Girl, tau gak PHP itu mudah dipelajarin, tapi kamu susah dilupain ')
 mengetik('Girl, kalo aku ping, kenapa timenya sampe 4 angka ')
 mengetik('Girl, aku pakai 8080 untuk menemuimu, 25 untuk menghubungimu tapi kenapa kamu menjawab error 406')
