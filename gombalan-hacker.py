@@ -53,5 +53,5 @@ mengetik('Jangan cuma bisa inject hatinya, tp harus bisa patchnya jg. Biar nggak
 mengetik('')
 mengetik('=====================================						')	
 mengetik('											')
-mengetik('Aku memang programmer PHP, tapi aku nggak akan php-in kamu kok.')	
-	
+mengetik('Aku memang programmer PHP, tapi aku nggak akan php-in kamu kok.')
+mengetik(R+'By:Nazril:')
