@@ -18,6 +18,19 @@ R = "\033[31m"    # Red
 import random
 import sys
 import time
+banner_list = [
+    """
+       .---.        .-----------
+      /     \  __  /    ------
+     / /     \(  )/    -----
+    //////   ' \/ `   ---
+   //// / // :    : ---
+  // /   /  /`    '--
+ //          //..\\
+        ====UU====UU====
+        |   '//||\\`   |
+        |     ''``     |
+N========A=======Z=======R=======I====L
 def mengetik(s):
     for c in s + '\n':
         sys.stdout.write(c)
