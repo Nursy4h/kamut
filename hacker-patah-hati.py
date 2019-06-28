@@ -37,4 +37,4 @@ mengetik('Girl, aku cemburu saat kamu didekati pria lain, butuh nitrocooler untu
 mengetik('Girl, biarpun kamu tidak acuh pdaku, tapi trojanku selalu memberi tau kalo ada malware berbahaya')
 mengetik('Girl, akhirnya aku tau, tak ada vurnerable untuk mendapatkan hatimu')
 mengetik('Girl, kuputuskan delete all about you, meski kusisakan satu bookmark tentangm ')
-mengetik('By:Nazril')
+mengetik(R+'By:Nazril')
