@@ -25,7 +25,7 @@ def mengetik(s):
 #angka terbesar adalah yang paling lambat
 mengetik(RR+' #GOMBALAN HACKER 		')													
 mengetik(GG+'				')											
-mengetik('Kalau donlot file .iso pake command 'wget -c' biar pas putus ditengah jalan bisa nyambung lagi kayak hubungan kita.  ')
+mengetik('Kalau donlot file .iso pake command wget -c biar pas putus ditengah jalan bisa nyambung lagi kayak hubungan kita')
 mengetik('											')
 mengetik('====================================							')
 mengetik('											')	
