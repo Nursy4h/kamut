@@ -1,3 +1,4 @@
+clear
 import random
 import sys
 import time
@@ -10,5 +11,7 @@ def mengetik(s):
 #ubah angka 0.1 sesuai keinginan kamu
 #angka terkecil adalah yang paling cepat
 #angka terbesar adalah yang paling lambat
-mengetik('hallo teman-teman.')
-mengetik('Nama saya\nNazri azril')
+mengetik('.           hallo teman-teman.')
+mengetik('.         Nama saya\nNazri azril')
+mengetik('.          Asal Saya\Dari Sumut')
+mengetik('.           Saya Anak Skolahan')
