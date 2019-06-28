@@ -18,11 +18,7 @@ def mengetik(s):
     for c in s + '\n':
         sys.stdout.write(c)
         sys.stdout.flush()
-#kecepatan mengetik
-        time.sleep(random.random() * 0.4)
-#ubah angka 0.2 sesuai keinginan kamu
-#angka terkecil adalah yang paling cepat
-#angka terbesar adalah yang paling lambat
+        time.sleep(random.random() * 0.2)
 mengetik(RR+' #GOMBALAN HACKER 		')													
 mengetik(GG+'				')											
 mengetik('Kalau donlot file .iso pake command wget -c biar pas putus ditengah jalan bisa nyambung lagi kayak hubungan kita')
