@@ -28,16 +28,17 @@ def mengetik(s):
 #ubah angka 0.2 sesuai keinginan kamu
 #angka terkecil adalah yang paling cepat
 #angka terbesar adalah yang paling lambat
-mengetik(YY+'         .---.        .-----------  ') 
-mengetik('        /     \  __  /    ------  ')
-mengetik('       / /     \(  )/    -----  ')
-mengetik('      //////     \/ `   --- ')
-mengetik('     //// / // :    : ---  ')
-mengetik('    // /   /  /`     --  ')
-mengetik('   //          //..\\  ')
-mengetik('          ====UU====UU==== 	')
-mengetik('          |     //||\\`   |    	 ')
-mengetik('          |       ``     |        ')
+mengetik(YY+'           .---.        .-----------  ') 
+mengetik('          /     \  __  /    ------  ')
+mengetik('         / /     \(  )/    -----  ')
+mengetik('        //////     \/ `   --- ')
+mengetik('       //// / // :    : ---  ')
+mengetik('      // /   /  /`     --  ')
+mengetik('     //          //..\\  ')
+mengetik('            ====UU====UU==== 	')
+mengetik('            |    //||\\` 
+   |    	 ')
+mengetik('            |       ``     |        ')
 mengetik('. N========A=======Z=======R=======I====L')
 mengetik(RR+'.       hallo teman-teman.')
 mengetik('.        Nama saya Nazri azril')
