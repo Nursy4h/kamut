@@ -31,7 +31,8 @@ def mengetik(s):
         time.sleep(random.random() * 0.5)
 mengetik(RR+' 1')
 mengetik(RR+' 2')
-mengetik(RR+' 3')def mengetik(s):
+mengetik(RR+' 3')
+def mengetik(s):
     for c in s + '\n':
         sys.stdout.write(c)
         sys.stdout.flush()
