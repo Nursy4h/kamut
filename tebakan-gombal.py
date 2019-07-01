@@ -32,9 +32,10 @@ def mengetik(s):
 mengetik(RR+' 1')
 mengetik(RR+' 2')
 mengetik(RR+' 3')
+mengetik(RR+' jawabannya......')
 def mengetik(s):
     for c in s + '\n':
         sys.stdout.write(c)
         sys.stdout.flush()
         time.sleep(random.random() * 0.1)
-mengetik(GG+'MELAMAR KAMU')
+mengetik(GG+'MALAMAR KAMU')
