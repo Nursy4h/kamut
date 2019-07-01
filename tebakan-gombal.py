@@ -44,15 +44,20 @@ mengetik(GG+'_______00_________________________0___0___00000')
 mengetik(GG+'_________000_____________________0000000___0__0')
 mengetik(GG+'_____________000________________0_______0__0__0')
 mengetik(GG+'________________000000000000000_00__0000_00_00')
+def mengetik(s):
+    for c in s + '\n':
+        sys.stdout.write(c)
+        sys.stdout.flush()
+        time.sleep(random.random() * 0.1)
 mengetik(BB+'                   #tebakan-gombalan-pedas ')
+mengetik(GL+'   Malam paling indah ~ ')
+mengetik(GG+'    MALAM APA YANG PALING INDAH???? ')
+mengetik(RR+' JAWAB SEMAMPU ANDA^-^')
 def mengetik(s):
     for c in s + '\n':
         sys.stdout.write(c)
         sys.stdout.flush()
         time.sleep(random.random() * 0.5)
-mengetik(GL+'   Malam paling indah ~ ')
-mengetik(GG+'    MALAM APA YANG PALING INDAH???? ')
-mengetik(RR+' JAWAB SEMAMPU ANDA^-^')
 mengetik(RR+' 1')
 mengetik(RR+' 2')
 mengetik(RR+' 3')
