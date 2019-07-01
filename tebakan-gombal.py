@@ -86,11 +86,3 @@ def mengetik(s):
         sys.stdout.flush()
         time.sleep(random.random() * 0.1)
 mengetik(GG+'      Kipas bisa bikin angin, kalo kamu bisa bikin kangen ?!?       ')
-jawab = 'ya'
-hitung = 0
-
-while(jawab == 'ya'):
-    hitung += 1
-    jawab = raw_input("Ulang lagi tidak? ")
-
-print "Total perulagan: " + str(hitung)
