@@ -52,6 +52,7 @@ def mengetik(s):
         sys.stdout.write(c)
         sys.stdout.flush()
         time.sleep(random.random() * 0.5)
+mengetik(RR+' JAWAB SEMAMPU ANDA^-^')
 mengetik(RR+' 1')
 mengetik(RR+' 2')
 mengetik(RR+' 3')
@@ -61,8 +62,8 @@ def mengetik(s):
         sys.stdout.write(c)
         sys.stdout.flush()
         time.sleep(random.random() * 0.1)
-mengetik(GG+'')
 mengetik(GG+'      MALAMAR KAMU       ')
+mengetik(GG+'')
 mengetik(GL+'   Kamu memang bikin kangen ~ ')
 mengetik(GG+'    Apa bedanya kamu sama kipas? ')
 def mengetik(s):
