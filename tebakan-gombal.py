@@ -20,7 +20,7 @@ def mengetik(s):
     for c in s + '\n':
         sys.stdout.write(c)
         sys.stdout.flush()
-        time.sleep(random.random() * 0.0)
+        time.sleep(random.random() * 0.1)
 mengetik(GG+'________________0000000000000000')
 mengetik(GG+'_____________000________________0000')
 mengetik(GG+'_________000_________________________00')
