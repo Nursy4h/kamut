@@ -26,11 +26,11 @@ def mengetik(s):
 #angka terkecil adalah yang paling cepat
 #angka terbesar adalah yang paling lambat
 
-mengetik(B+'                       {@} {@} ')
-mengetik(B+'.               *{@} {@} {@}* {@} {@}')
-mengetik(B+'.               :* {@} * {@} * {@}*;') 
-mengetik(B+'.                  `{@}* {@} *{@}`    ')
-mengetik(B+'  	               * {@} * ')
+mengetik(RR+'                      {@} {@} ')
+mengetik(RR+'.              *{@} {@} {@}* {@} {@}')
+mengetik(RR+'.              :* {@} * {@} * {@}*;') 
+mengetik(RR+'.                 `{@}* {@} *{@}`    ')
+mengetik(RR+'  	              * {@} * ')
 mengetik(GG+'                    \ \ \ | / / /    ')
 mengetik(GG+'                      \ \ Y / /     ')
 mengetik(GG+'                        \ | /     ')
