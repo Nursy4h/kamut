@@ -22,9 +22,9 @@ def mengetik(s):
         sys.stdout.flush()
 #kecepatan mengetik
         time.sleep(random.random() * 0.1)
-#ubah angka 0.1 sesuai keinginan kamu')
-#angka terkecil adalah yang paling cepat')
-#angka terbesar adalah yang paling lambat')
+#ubah angka 0.1 sesuai keinginan kamu
+#angka terkecil adalah yang paling cepat
+#angka terbesar adalah yang paling lambat
 
 mengetik(GG+'          {@} ')
 mengetik(GG+'*{@} {@} {@}* ')
@@ -35,7 +35,7 @@ mengetik(GG+'     \ \ \ | / / / ')
 mengetik(GG+'       \ \ Y / / ')
 mengetik(GG+'          \ | / ')
 mengetik(GG+'           /()\ ')
-mengetik(GG+'       ♥♥♥♥♥ ')
+mengetik(GG+'       ')
 mengetik(GG+' »(¯°•.†l0v3U!.•°¯)«') 
 mengetik(GG+'')
 mengetik(BB+'                   #HackerPatahHati ')
