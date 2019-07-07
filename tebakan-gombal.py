@@ -85,4 +85,23 @@ def mengetik(s):
         sys.stdout.write(c)
         sys.stdout.flush()
         time.sleep(random.random() * 0.1)
-mengetik(GG+'      Kipas bisa bikin angin, kalo kamu bisa bikin kangen ?!?       ')
+mengetik(GG+'      Kipas bisa bikin angin, kalo kamu bisa bikin kangen ?!? ')
+
+mengetik(GL+'   SEMOGA MODEM NYA GA LEMOT ~ ')
+mengetik(GG+'    APA BEDANYA KAMU SAMA MODEM? ')
+def mengetik(s):
+    for c in s + '\n':
+        sys.stdout.write(c)
+        sys.stdout.flush()
+        time.sleep(random.random() * 0.6)
+mengetik(RR+' 1')
+mengetik(RR+' 2')
+mengetik(RR+' 3')
+mengetik(RR+' jawabannya......')
+def mengetik(s):
+    for c in s + '\n':
+        sys.stdout.write(c)
+        sys.stdout.flush()
+        time.sleep(random.random() * 0.1)
+mengetik(GG+'  MODEM TERKONEKSI KE INTERNET KALO.')
+mengetik('KALAU KAMU TERKONEKSI KE HATIKU ')
